@@ -1,0 +1,5 @@
+{
+  "name": "DCodeFM Text to Audio",
+  "description": "A web application that converts text into high-quality male and female audio voices using the Gemini API. Users can input text, select a voice, and then generate, play, and download the corresponding speech.",
+  "requestFramePermissions": []
+}
